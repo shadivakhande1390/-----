@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:shadivakhande1390@gmail.com
+X-WR-TIMEZONE:Asia/Tehran
+X-WR-CALDESC:پذیرش کودکان از شیر خوار تا پیش دبستانی 
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220618
+DTEND;VALUE=DATE:20220619
+DTSTAMP:20210921T001816Z
+UID:6kom4cr574s30b9i6hhmab9k64qj2b9o69i3eb9kc8p3cd9k70qjgcr36s@google.com
+CREATED:20201211T020341Z
+DESCRIPTION:
+LAST-MODIFIED:20201211T020341Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:پیش دبستانی و مهد کودک شادی و خنده
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201212T184043Z
+DTEND:20201212T194043Z
+DTSTAMP:20210921T001816Z
+UID:61h6cchncop36b9mclgjeb9k64om2b9o6ss66b9l71ijge3360r68p9n6k@google.com
+CREATED:20201212T184124Z
+DESCRIPTION:
+LAST-MODIFIED:20201212T184124Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210427T133000Z
+DTEND:20210427T163000Z
+DTSTAMP:20210921T001816Z
+UID:6ks68cj2ccsjabb3cks62b9kchgjeb9p64om6b9l68r38pb265j64d1l70@google.com
+CREATED:20210428T001048Z
+DESCRIPTION:رویداد: https://fb.me/e/FoFZUY11\n\n\n#پیش دبستانی و\n#مهدکودک 
+ شادی وخنده\nاز  ۶ ماه🍼👶 تا  ۶ سال👫👬🎓\n\nﻧﺎﺭمک، گلبرگ غربی ،خیابان بختی
+ اری جنوبی( سامان) ،خیابان رحیمی، پلاک ۹ \n\n☎تلفن ۷۷۹۲۲۰۴۴\n\n
+LAST-MODIFIED:20210428T001048Z
+LOCATION:رویداد آنلاین
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:مهد کودک و پیش دبستانی شادی و خنده
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210427T143000Z
+DTEND:20210427T173000Z
+DTSTAMP:20210921T001816Z
+UID:6gp32o9k60p6abb360omab9k64pm2b9p68oj6bb56hj6aopj71hjgob564@google.com
+CREATED:20210508T070015Z
+DESCRIPTION:رویداد: https://fb.me/e/1phCZkN74\n\n\nپیش دبستانی و\nمهدکودک ش
+ ادی وخنده\nاز  ۶ ماه🍼👶 تا  ۶ سال👫👬🎓\n\nﻧﺎﺭمک، گلبرگ غربی ،خیابان بختیا
+ ری جنوبی( سامان) ،خیابان رحیمی، پلاک ۹ \n\n☎تلفن ۷۷۹۲۲۰۴۴\n
+LAST-MODIFIED:20210508T070015Z
+LOCATION:رویداد آنلاین
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:پیش دبستانی و مهد کودک شادی و خنده
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211027
+DTEND;VALUE=DATE:20211029
+DTSTAMP:20210921T001816Z
+UID:57t2mkrq4t8lt8fncb6bjsup4l@google.com
+CREATED:20210913T193035Z
+DESCRIPTION:Join us at GitHub Universe October 27 & 28 (PT) for a 2 day\, f
+ ree virtual event as we explore the future of software.\n\nhttp://githubuni
+ verse.com
+LAST-MODIFIED:20210913T193035Z
+LOCATION:http://githubuniverse.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GitHub Universe 2021
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211027
+DTEND;VALUE=DATE:20211029
+DTSTAMP:20210921T001816Z
+UID:6hq5pievj1v45748vfoi7jln7j@google.com
+CREATED:20210921T000920Z
+DESCRIPTION:Join us at GitHub Universe October 27 & 28 (PT) for a 2 day\, f
+ ree virtual event as we explore the future of software.\n\nhttp://githubuni
+ verse.com
+LAST-MODIFIED:20210921T000920Z
+LOCATION:http://githubuniverse.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GitHub Universe 2021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211027
+DTEND;VALUE=DATE:20211029
+DTSTAMP:20210921T001816Z
+UID:7c9eors3d0n9979dr8b6nvm2b1@google.com
+CREATED:20210921T001414Z
+DESCRIPTION:Join us at GitHub Universe October 27 & 28 (PT) for a 2 day\, f
+ ree virtual event as we explore the future of software.\n\nhttp://githubuni
+ verse.com
+LAST-MODIFIED:20210921T001414Z
+LOCATION:http://githubuniverse.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GitHub Universe 2021
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
